@@ -1,0 +1,6 @@
+[submodule "Akka-Visualizer-Client"]
+	path = Akka-Visualizer-Client
+	url = https://github.com/siddhanth98/Akka-Visualizer-Client.git
+[submodule "Akka-Visualizer-Server"]
+	path = Akka-Visualizer-Server
+	url = https://github.com/siddhanth98/Akka-Visualizer-Server.git
