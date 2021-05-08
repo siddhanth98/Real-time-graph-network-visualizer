@@ -1,4 +1,4 @@
-# Akka Client-Server Visualizer (by Siddhanth Venkateshwaran)
+# Akka Client-Server Visualizer
 The visualizer is a client-server system built using Node JS, Java and Vanilla JS which intercepts the creation/destruction of actor entities and messages transferred among those entities and constructs a self-updating graph network on a plain HTML canvas. The graph network has one node corresponding to each actor entity that currently exists in the akka program and an edge corresponding to each message that is transferred among relevant entities. One of the important goals of this prototype is to facilitate visualization of dynamically changing *states* while being consistent with the actual program execution and thus helping the programmer get a better intuitive sense of how his/her program behaves under normal conditions.
 
 ## Design
